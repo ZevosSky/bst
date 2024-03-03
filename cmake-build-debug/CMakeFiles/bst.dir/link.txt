@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/bst.dir/driver.cpp.o CMakeFiles/bst.dir/bst-map.cpp.o -o bst 

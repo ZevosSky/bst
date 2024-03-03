@@ -1,0 +1,3 @@
+/mnt/c/Users/thego/Documents/DigiPen/CS280/BST/cmake-build-debug/CMakeFiles/bst.dir
+/mnt/c/Users/thego/Documents/DigiPen/CS280/BST/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/thego/Documents/DigiPen/CS280/BST/cmake-build-debug/CMakeFiles/rebuild_cache.dir
